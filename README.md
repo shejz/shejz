@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on Health care projects.
 - 🤔 My interests are with Natural language processing and Computer vision.
 - 💬 Ask me about anything. I will try to help you as much as I can.
-- 📫 Please email via shiela.jimenez01@gmail.com to reach me.
 
 ---
 ### 💻:keyboard: Languages and Tools 
