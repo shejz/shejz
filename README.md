@@ -9,3 +9,9 @@
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - 📫 Please email via shiela.jimenez01@gmail.com to reach me.
 
+---
+### 💻:keyboard: Languages and Tools 
+
+### Languages<sup>*</sup>
+
+[![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/Quananhle/Haskell---NLP)
