@@ -14,4 +14,4 @@
 
 ### Languages<sup>*</sup>
 
-[![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/Quananhle/Haskell---NLP)
+[![R]
