@@ -40,7 +40,7 @@
   
 **Database:**
   [![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql)](https://github.com/shejz)
-  [![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql)](https://github.com/shejz)
+  [![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql)](https://github.com/shejz)
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql)](https://github.com/shejz)
 
 
