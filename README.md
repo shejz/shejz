@@ -12,8 +12,8 @@
 ### 💻:keyboard: Languages and Tools 
 
 **Programming Languages**:
-[![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/Quananhle/Haskell---NLP)](https://github.com/shejz)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/shejz)
+[![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white)](https://github.com/shejz)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)](https://github.com/shejz)
 
  **Python**:
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/shejz)
