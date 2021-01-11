@@ -31,7 +31,7 @@
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://github.com/shejz) 
   [![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap)](https://github.com/shejz)
   [![Django](https://img.shields.io/badge/django%20-%23092E20.svg?&style=plastic&logo=django)](https://github.com/shejz)
-  [!Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=plastic&logo=flask&logoColor=white)]()
+  [!Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=plastic&logo=flask)](https://github.com/shejz)
   [![Jquery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=plastic&logo=jquery)](https://github.com/shejz)
   
   
